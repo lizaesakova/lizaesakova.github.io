@@ -1,6 +1,6 @@
 
 
-/*--------------------- 0- Global CSS (Start) ---------------------*/
+/*---------------------  Global CSS (Start) ---------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
 :root{
@@ -71,7 +71,6 @@ section{
     background: var(--purple);
 }
 
-/*--------------------- 0- Global CSS (End) ---------------------*/
 
 
 
@@ -104,7 +103,6 @@ section{
     margin-left: 10%;
 }
 
-/*--------------------- 1- Heading CSS (End) ---------------------*/
 
 
 
@@ -128,7 +126,6 @@ section{
     cursor: pointer;
 }
 
-/*--------------------- 2- Button CSS (End) ---------------------*/
 
 
 
@@ -200,7 +197,6 @@ header #menu-btn:hover{
     color: var(--purple);
 }
 
-/*--------------------- 3- Header Area CSS (End) ---------------------*/
 
 
 
@@ -287,7 +283,6 @@ header #menu-btn:hover{
     padding-bottom: 2rem;
     line-height: 1.5;
 }
-/*--------------------- 4- Home Area CSS (End) ---------------------*/
 
 
 
@@ -483,7 +478,6 @@ header #menu-btn:hover{
     width:30%;
 }
 
-/*--------------------- 5- About Area CSS (End) ---------------------*/
 
 
 
@@ -559,7 +553,6 @@ header #menu-btn:hover{
     line-height: 2.5rem;
 }
 
-/*--------------------- 6- Qualification Area CSS (End) ---------------------*/
 
 
 
@@ -619,7 +612,6 @@ header #menu-btn:hover{
     color: var(--white);
 }
 
-/*--------------------- 7- Services Area CSS (End) ---------------------*/
 
 
 
@@ -808,11 +800,10 @@ header #menu-btn:hover{
 }
 
 
-/*--------------------- 8- Portfolio Area CSS (End) ---------------------*/
 
 
 
-/*--------------------- 11- Contact Area CSS (Start) ---------------------*/
+/*--------------------- 9- Contact Area CSS (Start) ---------------------*/
 .contact .alert{
     font-size: 2rem;
     color: var(--purple);
@@ -899,11 +890,10 @@ header #menu-btn:hover{
     padding-left: 1rem;
 }
 
-/*--------------------- 11- Contact Area CSS (End) ---------------------*/
 
 
 
-/*--------------------- 12- Footer Area CSS (Start) ---------------------*/
+/*--------------------- 10- Footer Area CSS (Start) ---------------------*/
 footer{
     background-color: var(--purple);
     padding: 2rem 0;
@@ -953,11 +943,10 @@ footer .content p span{
     color: var(--black);
 }
 
-/*--------------------- 12- Footer Area CSS (End) ---------------------*/
 
 
 
-/*--------------------- 13- Scroll-Top (Start) ---------------------*/
+/*--------------------- 11- Scroll-Top (Start) ---------------------*/
 .scroll-top{
     position: fixed;
     bottom: 1rem;
@@ -990,5 +979,3 @@ footer .content p span{
     background: var(--white);
     color:var(--black);
   }
-
-/*--------------------- 13- Scroll-Top (End) ---------------------*/
